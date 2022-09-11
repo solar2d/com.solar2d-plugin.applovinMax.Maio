@@ -3,8 +3,8 @@ local metadata =
 	plugin =
 	{
 		format = 'staticLibrary',
-		staticLibs = {  },
-		frameworks = { "AppLovinMediationMaioAdapter", "Maio" },
+		staticLibs = { "MaioAdapter" },
+		frameworks = { "Maio" },
 		frameworksOptional = {},
 	},
 }

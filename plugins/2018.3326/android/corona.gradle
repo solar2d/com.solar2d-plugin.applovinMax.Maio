@@ -4,5 +4,5 @@ repositories {
   maven { url "https://imobile-maio.github.io/maven" }
 }
 dependencies {
-	implementation 'com.applovin.mediation:maio-adapter:1.1.16.1'
+	implementation 'com.applovin.mediation:maio-adapter:1.1.16.2'
 }
